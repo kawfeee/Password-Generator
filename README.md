@@ -30,3 +30,6 @@ A simple password generator website built using **React**, **Vite**, and **Tailw
    ```bash
    npm run dev
    ```
+SCREENSHOT
+![image](https://github.com/user-attachments/assets/4ef9ea17-515f-4a01-a1fa-e22f25b88c1b)
+
